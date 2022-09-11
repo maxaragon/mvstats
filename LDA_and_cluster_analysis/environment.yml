@@ -1,0 +1,7 @@
+name: multivariate-statistics-env
+
+channels:
+    - conda-forge
+
+dependencies:
+  -  umap-learn=0.5.3
